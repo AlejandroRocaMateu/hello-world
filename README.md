@@ -70,9 +70,16 @@
 
 ##
 
-![Hacer la Pull Reuqest]()
+![Hacer la Pull Reuqest](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/1f291ec9d78123ba7e970f7806b588729ebf9bd4/6.PNG)
 
-- 
+##
+
+- Si todo esta bien, solo habra que confirmar los cambios, y poner un titulo y si queremos una descripcion.
+
+##
+
+![Confirmar Pull Request]()
+
 
 
 
