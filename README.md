@@ -58,6 +58,9 @@
 
 ## Cuartos Pasos
 
+- Ahora lo que haremos sera hacer una solicitud de extraccion con el "pull request"
+- Nos iremos a la parte donde dice "Pull Requests"
+
 
 
 
