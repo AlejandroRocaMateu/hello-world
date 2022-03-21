@@ -28,7 +28,15 @@
 
 ## Segundos Pasos
 
+-- Ahora vamos a crear una rama nueva
 
+-- Para crear una rama nueva nos iremos a nuestro repositorio llamado "hello-world-examen"
+
+-- Justo en la parte de arriba nos iremos a la parte donde dice main con un menu desplegable.
+
+##
+
+![Nueva Rama]()
 
 
 
