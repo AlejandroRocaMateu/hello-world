@@ -43,7 +43,18 @@
 - Ahora en el menu desplegable, nos dejara poner cualquier nombre a la rama, nosotros le pondremos de nombre "readme-edits"
 - Le daremos a create branch y despues ya estara creada y en nuestro repositorio.
 
+## Terceros Pasos
+
+- Ahora con el repositorio creado y la rama creada, nos iremos al Readme, que seleccionamos a la hora de crear el repositorio
+- Dentro del Readme, documentaremos toda la informacion necesaria para realizar esre ejercicio, como estoy haciendo ahora.
+- Cuando acabamos de escribir y poner toda la informacion, le daremos a "commit changes"
+
 ##
+
+![Confirmar Cambios]()
+
+
+
 
 
 
