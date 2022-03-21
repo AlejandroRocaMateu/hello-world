@@ -97,7 +97,10 @@
 
 - Y despues ya se habra hecho el Merge correctamente
 
-![Hecho el Merge ]()
+![Hecho el Merge ](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/086d7cd142f1efe9dbb47b72bee875760e514592/10.PNG)
+
+- Y ahora la rama que hemos creado de readme-file la vamos a eliminar
+ 
 
 
 
