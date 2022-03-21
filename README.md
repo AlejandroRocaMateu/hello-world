@@ -93,13 +93,20 @@
 
 - Le daremos a confirmar la fusion.
 
+##
+
 ![Confirmar el Merge ](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/f6a6fb98ff73b1a5977314ae4feaa68ea9ae0b3c/9.PNG)
+
+##
 
 - Y despues ya se hara el merge.
 - Y nos quedara por finalizar eliminar la rama de readme-file
 
-![Hecho el Merge y eliminar Rama ]()
+##
 
+![Hecho el Merge y eliminar Rama ](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/ea48b4f192d3b680a7338eeefb62d45377477b29/10.PNG)
+
+##
 
 
 
