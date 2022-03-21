@@ -1,3 +1,4 @@
-# hello-world-examen
 ## EJERCICIO HELLO-WORLD
--- Para pasar
+
+-- Empezaremos creando nuestro repositorio donde haremos todo el proceso.
+
