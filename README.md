@@ -93,7 +93,12 @@
 
 - Le daremos a confirmar la fusion.
 
-![Confimar el Merge ]()
+![Confimar el Merge ](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/84d714a302c8c84aabf408a9f2deaa7ac2a692fe/9.PNG)
+
+- Y despues ya se habra hecho el Merge correctamente
+
+![Hecho el Merge ]()
+
 
 
 
