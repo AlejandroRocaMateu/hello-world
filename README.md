@@ -2,11 +2,11 @@
 
 ## Primeros Pasos
 
--- Empezaremos creando nuestro repositorio donde haremos todo el proceso.
+- Empezaremos creando nuestro repositorio donde haremos todo el proceso.
 
--- Para crear un repositorio desde cero, nos iremos a nuestro GitHub.
+- Para crear un repositorio desde cero, nos iremos a nuestro GitHub.
 
--- Le daremos en la parte de arriba  a 'New'
+- Le daremos en la parte de arriba  a 'New'
 
 
 ##
@@ -15,11 +15,11 @@
 
 ##
 
--- En el nombre del repositorio pondremos Hello-World-Examen
+- En el nombre del repositorio pondremos Hello-World-Examen
 
--- Si queremos añadiremos un pequeña descripcion
+- Si queremos añadiremos un pequeña descripcion
 
--- Marcaremos con una cruz en la casillas "Add a REAMDE file" porque es donde documentaremos el proceso.
+- Marcaremos con una cruz en la casillas "Add a REAMDE file" porque es donde documentaremos el proceso.
 
 ##
 
@@ -28,11 +28,11 @@
 
 ## Segundos Pasos
 
--- Ahora vamos a crear una rama nueva
+- Ahora vamos a crear una rama nueva
 
--- Para crear una rama nueva nos iremos a nuestro repositorio llamado "hello-world-examen"
+- Para crear una rama nueva nos iremos a nuestro repositorio llamado "hello-world-examen"
 
--- Justo en la parte de arriba nos iremos a la parte donde dice main con un menu desplegable.
+- Justo en la parte de arriba nos iremos a la parte donde dice main con un menu desplegable.
 
 ##
 
