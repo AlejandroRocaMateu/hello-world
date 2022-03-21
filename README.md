@@ -87,9 +87,12 @@
 
 ##
 
-![Hacer el Merge ]()
+![Hacer el Merge ](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/08e7b8fa3da588e293015d5de3cac2d2ec57dbac/8.PNG)
 
 ##
+
+- Le daremos a confirmar la fusion.
+- 
 
 
 
