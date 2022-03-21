@@ -6,7 +6,7 @@
 
 -- Para crear un repositorio desde cero, nos iremos a nuestro GitHub.
 
--- Le daremos en la parte de arriba  a new
+-- Le daremos en la parte de arriba  a 'New'
 
 ##
 
