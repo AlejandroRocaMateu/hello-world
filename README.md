@@ -41,6 +41,9 @@
 ##
 
 - Ahora en el menu desplegable, nos dejara poner cualquier nombre a la rama, nosotros le pondremos de nombre "readme-edits"
+
+![Crear Rama]()
+
 - Le daremos a create branch y despues ya estara creada y en nuestro repositorio.
 
 ## Terceros Pasos
