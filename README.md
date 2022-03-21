@@ -92,7 +92,8 @@
 ##
 
 - Le daremos a confirmar la fusion.
-- 
+
+![Confirmar el Merge ]()
 
 
 
