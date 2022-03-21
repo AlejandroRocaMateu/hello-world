@@ -82,6 +82,16 @@
 
 ## Ultimos Pasos
 
+- Aqui ya es la parte final donde fusionaremos la rama readme-files con la main.
+- Nos iremos a la parte de "Merge pull request"
+
+##
+
+![Hacer el Merge ]()
+
+##
+
+
 
 
 
