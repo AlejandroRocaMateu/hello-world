@@ -36,7 +36,14 @@
 
 ##
 
-![Nueva Rama]()
+![Nueva Rama](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/5c957f9f479653fedee7901ca6f6452c83e0725d/2.PNG)
+
+##
+
+- Ahora en el menu desplegable, nos dejara poner cualquier nombre a la rama, nosotros le pondremos de nombre "readme-edits"
+- Le daremos a create branch y despues ya estara creada y en nuestro repositorio.
+
+##
 
 
 
