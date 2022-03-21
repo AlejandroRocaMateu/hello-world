@@ -6,4 +6,6 @@
 
 -- Para crear un repositorio desde cero, nos iremos a nuestro GitHub.
 
+![Nuevo Repositorio]()
+
 
