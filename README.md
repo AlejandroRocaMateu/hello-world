@@ -61,11 +61,18 @@
 - Ahora lo que haremos sera hacer una solicitud de extraccion con el "pull request"
 - Nos iremos a la parte donde dice "Pull Requests"
 
+##
+
+![Hacer la Pull Reuqest](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/6bfb6645c5f09aad6ac512aa47570b3f5540264c/5.PNG)
+##
+
+- Despues dentro de la pull confirmaremos que queremos comparar la rama readme-edits con la main
+
+##
+
 ![Hacer la Pull Reuqest]()
 
-
-
-
+- 
 
 
 
