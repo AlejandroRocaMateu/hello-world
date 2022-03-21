@@ -8,8 +8,20 @@
 
 -- Le daremos en la parte de arriba  a 'New'
 
+
 ##
 
 ![Nuevo Repositorio](https://github.com/AlejandroRocaMateu/hello-world-examen/blob/19f41cf2a5d6bd43789560d43a326f9b6a6465df/1.PNG)
+
+
+-- En el nombre del repositorio pondremos Hello-World-Examen
+
+-- Si queremos añadiremos un pequeña descripcion
+
+-- Marcaremos con una cruz en la casillas "Add a REAMDE file" porque es donde documentaremos el proceso.
+
+##
+
+![Crear Repositorio]()
 
 
